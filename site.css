@@ -1,0 +1,45 @@
+* {
+    background-color: white;
+    font-family: 'Times New Roman', Times, serif; 
+}
+
+h1 {
+    font-size: 50px;
+    background-color: white;
+    border-bottom: 2px solid black;
+}
+
+.sections {
+    background-color: white; 
+    text-align: right;
+    font-size: 35px;
+    padding-bottom: 25px;
+}
+
+h2, .section {
+    text-align: center;
+    color: black;
+}
+
+.bigger {
+    font-size: 20px;
+    padding-top: 10px; 
+}
+
+footer {
+    padding-top: 50px;
+    font-size: 25px;
+}
+
+
+ .water {
+    text-align: left;
+    font-size: 25px;
+    border-bottom: 1px solid black;
+    padding-bottom: 15px;
+ }
+
+ .larger {
+    font-size: 30px;
+    border-bottom: 1px solid black;
+ }
